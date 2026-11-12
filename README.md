@@ -4,7 +4,7 @@
 Business Analysis project completed during internship at Saiket Systems. Performed end-to-end data analysis and predictive modeling using Python.
 
 ## 🖼️ Project Preview
-![Analysis Preview](dashboard.png1)(dashboard.png2)
+![Analysis Preview](dashboard.png)
 
 ## 🛠️ Tech Stack
 - **Pandas** - Data cleaning & manipulation
